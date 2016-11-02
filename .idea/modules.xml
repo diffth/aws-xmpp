@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Xmpp.iml" filepath="$PROJECT_DIR$/Xmpp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-xmpp.iml" filepath="$PROJECT_DIR$/aws-xmpp.iml" />
     </modules>
   </component>
 </project>
