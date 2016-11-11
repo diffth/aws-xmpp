@@ -32,8 +32,8 @@ public class MainActivity extends AppCompatActivity {
     public static final String HOST = "52.78.215.218";
     public static final int PORT = 5222;
     public static final String SERVICE = "oo";
-    public static final String USERNAME = "ohs";
-    public static final String PASSWORD = "zx2000";
+    public static final String USERNAME = "";
+    public static final String PASSWORD = "";
 
     private XMPPConnection connection;
     private ArrayList<String> messages = new ArrayList<>();

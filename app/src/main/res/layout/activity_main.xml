@@ -26,7 +26,6 @@
             android:hint="Add Recipient"
             android:minWidth="250dp"
             android:scrollHorizontally="true"
-            android:singleLine="true"
             android:textSize="16sp" />
     </LinearLayout>
 
